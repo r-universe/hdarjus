@@ -8,3 +8,8 @@
 	url = https://github.com/hdarjus/exams.mylearn
 	shallow = true
 	registered = true
+[submodule "sparvaride"]
+	path = sparvaride
+	url = https://github.com/hdarjus/sparvaride
+	shallow = true
+	registered = true

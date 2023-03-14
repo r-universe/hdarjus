@@ -2,5 +2,9 @@
   {
     "package": "exams.mylearn",
     "oncran": true
+  },
+  {
+    "package": "sparvaride",
+    "oncran": true
   }
 ]
