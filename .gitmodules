@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "exams.mylearn"]
-	path = exams.mylearn
-	url = https://github.com/hdarjus/exams.mylearn
-	shallow = true
-	registered = true
 [submodule "sparvaride"]
 	path = sparvaride
 	url = https://github.com/hdarjus/sparvaride
+	shallow = true
+	registered = true
+[submodule "exams.mylearn"]
+	path = exams.mylearn
+	url = https://github.com/hdarjus/exams.mylearn
 	shallow = true
 	registered = true

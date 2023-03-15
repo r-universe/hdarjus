@@ -1,10 +1,10 @@
 [
   {
-    "package": "exams.mylearn",
+    "package": "sparvaride",
     "oncran": true
   },
   {
-    "package": "sparvaride",
+    "package": "exams.mylearn",
     "oncran": true
   }
 ]
